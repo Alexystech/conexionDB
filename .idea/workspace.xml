@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9b04660-0052-407f-b44b-b28bce1cb07e" name="Default Changelist" comment="" />
+    <list default="true" id="a9b04660-0052-407f-b44b-b28bce1cb07e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/platform/FirstLayout$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/platform/FirstLayout$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/platform/FirstLayout$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/platform/FirstLayout$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/platform/FirstLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/platform/FirstLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/platform/com/alexis/conexion/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/platform/com/alexis/conexion/Conexion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstLayout.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstLayout.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstLayout.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aamBjXr7xU7zpJeT3E3dcHsJH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="152" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="293" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48-bin.jar!/" />
@@ -71,26 +85,34 @@
       <screen x="-1298" y="0" width="1298" height="768" />
     </state>
     <state x="-869" y="139" key="FileChooserDialogImpl/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586982612226" />
-    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1586995244223">
-      <screen x="-1298" y="0" width="1298" height="768" />
+    <state width="1254" height="192" key="GridCell.Tab.0.bottom" timestamp="1587019836604">
+      <screen x="69" y="0" width="1297" height="768" />
     </state>
-    <state width="1255" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
-    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1586995244223">
-      <screen x="-1298" y="0" width="1298" height="768" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586999374692" />
+    <state width="1254" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768@69.0.1297.768" timestamp="1587019836604" />
+    <state width="1254" height="192" key="GridCell.Tab.0.center" timestamp="1587019836604">
+      <screen x="69" y="0" width="1297" height="768" />
     </state>
-    <state width="1255" height="192" key="GridCell.Tab.0.center/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
-    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1586995244223">
-      <screen x="-1298" y="0" width="1298" height="768" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586999374692" />
+    <state width="1254" height="192" key="GridCell.Tab.0.center/69.0.1297.768@69.0.1297.768" timestamp="1587019836604" />
+    <state width="1254" height="192" key="GridCell.Tab.0.left" timestamp="1587019836604">
+      <screen x="69" y="0" width="1297" height="768" />
     </state>
-    <state width="1255" height="192" key="GridCell.Tab.0.left/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
-    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1586995244223">
-      <screen x="-1298" y="0" width="1298" height="768" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586999374692" />
+    <state width="1254" height="192" key="GridCell.Tab.0.left/69.0.1297.768@69.0.1297.768" timestamp="1587019836604" />
+    <state width="1254" height="192" key="GridCell.Tab.0.right" timestamp="1587019836604">
+      <screen x="69" y="0" width="1297" height="768" />
     </state>
-    <state width="1255" height="192" key="GridCell.Tab.0.right/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586999374692" />
+    <state width="1254" height="192" key="GridCell.Tab.0.right/69.0.1297.768@69.0.1297.768" timestamp="1587019836604" />
     <state x="-1169" y="0" key="SettingsEditor" timestamp="1586982654415">
       <screen x="-1298" y="0" width="1298" height="768" />
     </state>
     <state x="-1169" y="0" key="SettingsEditor/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586982654415" />
+    <state x="526" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587018426064">
+      <screen x="69" y="0" width="1297" height="768" />
+    </state>
+    <state x="526" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.0.1297.768@69.0.1297.768" timestamp="1587018426064" />
     <state x="-879" y="265" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1586991297266">
       <screen x="-1298" y="0" width="1298" height="768" />
     </state>

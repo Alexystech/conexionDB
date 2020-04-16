@@ -9,13 +9,13 @@ public class FirstLayout extends JFrame {
     private JButton desconectarButton;
     private JPanel rootPanel;
     private JTextField textField1;
-    private JTextField textField2;
     private JTextField textField3;
+    private JPasswordField passwordField1;
 
     public FirstLayout() {
         //this uses the form designer form
         add(rootPanel);
-        setTitle("this is my title");
+        setTitle("ConnectionToMySQL");
         setSize(400,500);
 
         Conexion cnx = new Conexion();
@@ -25,7 +25,7 @@ public class FirstLayout extends JFrame {
             public void actionPerformed(ActionEvent e) {
 
                 String user = textField3.getText();
-                String password = textField2.getText();
+                String password = passwordField1.getText();
                 String dataBase = textField1.getText();
 
                 cnx.conectar(user,password,dataBase);
