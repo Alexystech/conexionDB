@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b04660-0052-407f-b44b-b28bce1cb07e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aamBjXr7xU7zpJeT3E3dcHsJH7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="152" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="293" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="platform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b04660-0052-407f-b44b-b28bce1cb07e" name="Default Changelist" comment="" />
+      <created>1586981945430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586981945430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-680" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1586986044649">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state x="-680" y="184" key="#com.intellij.ide.util.MemberChooser/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586986044649" />
+    <state x="-869" y="139" key="FileChooserDialogImpl" timestamp="1586982612226">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state x="-869" y="139" key="FileChooserDialogImpl/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586982612226" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1586995244223">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1586995244223">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1586995244223">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1586995244223">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586995244223" />
+    <state x="-1169" y="0" key="SettingsEditor" timestamp="1586982654415">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state x="-1169" y="0" key="SettingsEditor/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586982654415" />
+    <state x="-879" y="265" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1586991297266">
+      <screen x="-1298" y="0" width="1298" height="768" />
+    </state>
+    <state x="-879" y="265" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/69.0.1297.768/-1298.0.1298.768@-1298.0.1298.768" timestamp="1586991297266" />
+  </component>
+</project>
